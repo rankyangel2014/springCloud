@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="yc-microservice-parent/yc-microservice-consumer-fein/src/main/java"/>
+	<classpathentry kind="src" path="yc-microservice-parent/yc-microservice-consumer-rest/src/main/java"/>
+	<classpathentry kind="src" path="yc-microservice-parent/yc-microservice-provider-user/src/main/java"/>
+	<classpathentry kind="src" path="yc-microservice-parent/yc-microservice-server/src/main/java"/>
+	<classpathentry kind="output" path="yc-microservice-parent/yc-microservice-consumer-fein/target/classes"/>
+</classpath>
